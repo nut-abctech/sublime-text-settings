@@ -1,3 +1,4 @@
 [
-	{ "keys": ["alt+r"], "command": "reveal_in_side_bar" }
+    { "keys": ["ctrl+t"], "command": "trim_trailing_white_space" },
+    { "keys": ["alt+r"], "command": "reveal_in_side_bar" }
 ]
